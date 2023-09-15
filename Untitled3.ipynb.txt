@@ -1,0 +1,71 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "M3APdgSg9eCw",
+        "outputId": "1523ee86-e166-4922-cf85-3147ea818072"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "umit\n"
+          ]
+        }
+      ],
+      "source": [
+        "print('umit')"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "UZYqbqejBDsc"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#write the application of python\n",
+        "- web developement\n",
+        " - gaming application\n",
+        "  - chatbots"
+      ],
+      "metadata": {
+        "id": "ekQeciHQCttR"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "YmYLQha-QAKD"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
